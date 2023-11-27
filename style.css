@@ -24,6 +24,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 
@@ -119,7 +120,7 @@ body {
 .apr4 {
     height: 800px;
     justify-content: start;
-    padding-top: 20px;
+    padding-top: 100px;
     margin-bottom: 140px;
 }
 
